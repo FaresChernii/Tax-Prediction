@@ -31,4 +31,7 @@
 
 # Model 
 Random Forest Classifier with one-hot encoding 
- 
+# Recommendation system
+Used ChatGPT API to get recommendations 
+
+Ps: Don't forget to put your ChatGPT API in app.py
