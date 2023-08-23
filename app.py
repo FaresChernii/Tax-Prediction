@@ -7,7 +7,7 @@ import openai  # Import the OpenAI library
 
 app = Flask(__name__, template_folder='templates')
 
-api_key = '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'
+api_key = 'YOUR_API_KEY_HERE'
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
